@@ -1,3 +1,3 @@
 # Paletto Project
 
-This is my very first web development project. This project was a challenge that I must do when I first joined a computer club in my college years. This is my first hand-on experience in coding with HTML and CSS.
+This was my very first web development project — a challenge I had to complete when I first joined a computer club during my college years. It was my initial hands-on experience with coding using HTML and CSS.
